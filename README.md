@@ -19,6 +19,10 @@ fortune cookie image
 (fortune cookies)[https://unsplash.com/photos/PYHjKkAdSPs]
 credit: (Meritt Thomas)[https://unsplash.com/@merittthomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText]
 
+takeout container image
+(takeout)[https://www.istockphoto.com/vector/chinese-fast-food-gm1218911256-356347510]
+credit: (KIT8)[https://www.istockphoto.com/portfolio/jossdim?mediatype=illustration]
+
 some of the fortune cookie (messages)[http://www.fortunecookiemessage.com/archive.php?start=150
 
 # pseudo code
