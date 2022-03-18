@@ -23,6 +23,10 @@ takeout container image
 (takeout)[https://www.istockphoto.com/vector/chinese-fast-food-gm1218911256-356347510]
 credit: (KIT8)[https://www.istockphoto.com/portfolio/jossdim?mediatype=illustration]
 
+kawaii fortune cookie image
+(fortune cookie)[https://www.pngitem.com/middle/oiTbwh_kawaii-cookie-cliparts-cute-kawaii-fortune-cookie-hd/]
+credit: (Dj Tripti)[https://www.pngitem.com/userpic/17624/]
+
 some of the fortune cookie (messages)[http://www.fortunecookiemessage.com/archive.php?start=150
 
 # pseudo code
