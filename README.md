@@ -16,8 +16,8 @@ background image
 photo credit: (debbie tea)[https://unsplash.com/@debbietakesphoto]  
 
 fortune cookie image  
-()[]
-credit: ()[]
+(fortune cookies)[https://unsplash.com/photos/PYHjKkAdSPs]
+credit: (Meritt Thomas)[https://unsplash.com/@merittthomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText]
 
 some of the fortune cookie (messages)[http://www.fortunecookiemessage.com/archive.php?start=150
 
