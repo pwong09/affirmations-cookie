@@ -13,7 +13,7 @@ main {
 button {
     border-radius: 10px;
     background-color: white;
-    width: 80%;
+    width: 65%;
     height: 65px;
     cursor: pointer;
     box-shadow: 5px 5px 5px rgb(255,127,235);
@@ -36,7 +36,7 @@ img {
     margin-top: 20px;
     background-color: white;
     width: 90%;
-    height: 100px;
+    height: 110px;
     text-align: center;
     overflow: auto;
     margin: 5px;
@@ -44,5 +44,12 @@ img {
 }
 #affirm {
     font-size: 23px;
+    color: #ba130d;
 }
-@media only screen and (min-width )
+@media only screen and (min-width: 724px) {
+    button {
+        width: 230px;
+        height: 70px;
+        margin: 20px;
+    }
+}

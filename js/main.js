@@ -25,7 +25,7 @@ affirmations = [
     'There are no rules except the ones we impose on ourselves. -PW',
     'All the water in the world can\'t sink a ship unless it gets inside.',
     'It\'s okay if you\'d rather wait to try again tomorrow. -PW',
-    'Two small jumps can sometimes be better than one giant leap. Not everyone has/want to represent humankind.',
+    'Two small jumps can sometimes be better than one giant leap.',
     'I dreamt that it was time to go back to bed. -PW',
     'The rainbow shines after a rainstorm.',
     'You don\'t need talent to gain experience.',
