@@ -4,6 +4,9 @@ body {
     background-color: rgb(247, 247, 247);
     font-family: Helvetica, sans-serif;
 }
+a {
+    text-decoration: none;
+}
 main {
     display: flex;
     flex-direction: column;
@@ -64,8 +67,8 @@ footer > .social {
 .socials {
     padding: 0 5px;
 }
-.social {
-    width: 5px;
+.socials img {
+    width: 3vw;
     height: auto;
 }
 @media only screen and (min-width: 724px) {
