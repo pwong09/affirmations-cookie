@@ -1,14 +1,9 @@
 # affirmations-cookie 
-a quick browser generator  
+a browser generator  
 
-when a user navigates to the browser,   
-onload - generate a random affirmation  
-the affirmation message appears on the screen - in cute graphic? inside an opened fortune cookie?  
-
-when the user clicks the button, affirm me  
-grab antoher random affirmation  
-the affrmation message on the screen changes to match the new affirmation  
-
+when a user navigates to the browser:   
+onclick - generate a random affirmation  
+the affirmation message appears on the screen 
 
 # assets used
 kawaii fortune cookie image
