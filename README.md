@@ -7,10 +7,10 @@ the affirmation message appears on the screen
 
 # assets used
 kawaii fortune cookie image
-(fortune cookie)[https://www.pngitem.com/middle/oiTbwh_kawaii-cookie-cliparts-cute-kawaii-fortune-cookie-hd/]
-credit: (Dj Tripti)[https://www.pngitem.com/userpic/17624/]
+(fortune cookie)['https://www.pngitem.com/middle/oiTbwh_kawaii-cookie-cliparts-cute-kawaii-fortune-cookie-hd/']
+credit: (Dj Tripti)['https://www.pngitem.com/userpic/17624/']
 
-some of the fortune cookie (messages)[http://www.fortunecookiemessage.com/archive.php?start=150
+some of the fortune cookie (messages)['http://www.fortunecookiemessage.com/archive.php?start=150']
 
 # pseudo code
 //constants  
