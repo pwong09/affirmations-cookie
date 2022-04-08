@@ -77,4 +77,8 @@ footer > .social {
         height: 70px;
         margin: 20px;
     }
+    img {
+        width: 40%;
+        height: auto;
+    }
 }
